@@ -135,31 +135,4 @@ WHEN 'G'.
 WHEN OTHERS.
     WRITE: 'Invalid Character, please go back and submit another letter (A-G).'.
 ENDCASE.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 *&------------------END OF SCRIPT---------------------------------------*
